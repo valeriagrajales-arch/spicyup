@@ -1,0 +1,21 @@
+SPICY UP — VERSIÓN MEJORADA
+===========================
+
+Cómo ejecutar:
+1. Descomprime el archivo.
+2. Abre la carpeta SpicyUp en Visual Studio Code.
+3. Ejecuta index.html con Live Server (o abre index.html en un navegador).
+4. Navega por Productos, Sabores, Nosotros y Contacto.
+
+Mejoras incluidas:
+- Página Nosotros creada y enlazada con el resto del sitio.
+- Navegación consistente en Inicio, Nosotros y Contacto.
+- Idioma de la página principal configurado en español.
+- Los precios de ejemplo "$0.00" se sustituyeron por "Consulta el precio" para evitar mostrar precios ficticios.
+- Ajustes responsive y pequeños detalles de presentación.
+
+Antes de publicar o presentar:
+- Reemplaza spicyup@email.com si no es el correo real.
+- Define precios reales y confirma las descripciones y disponibilidad de productos.
+- El formulario y las compras pueden requerir backend o una integración externa para enviar datos y procesar pedidos reales.
+- Revisa el sitio en computador y celular.
